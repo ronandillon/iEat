@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce23f7ff-791a-4031-afec-efc77efa0bc8" name="scup.cloudapp.net" url="http://scup.cloudapp.net">
+        <fileTransfer host="scup.cloudapp.net" port="22" accessType="SFTP" username="c12355251">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
